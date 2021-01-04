@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable_blue_ball.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable/blue_ball.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/raw_money_fall_pull_to_refresh.json.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/raw/money_fall_pull_to_refresh.json"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/raw_winners_animation.json.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/raw/winners_animation.json"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable_yellow_ball.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable/yellow_ball.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable_grey_ball.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable/grey_ball.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-v24_color_wheel.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable-v24/color_wheel.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-v24_qrcode.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable-v24/qrcode.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable_red_ball.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable/red_ball.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable_green_ball.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable/green_ball.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/raw_lottery_whirl.json.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/raw/lottery_whirl.json"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout_activity_record_item.xml.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/layout/activity_record_item.xml"
+    },
+    {
+        "merged": "/home/eziong/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-v24_search.png.flat",
+        "source": "/home/eziong/AndroidStudioProjects/lottery/app/src/main/res/drawable-v24/search.png"
+    }
+]

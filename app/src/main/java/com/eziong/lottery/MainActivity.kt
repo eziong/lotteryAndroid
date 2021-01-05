@@ -3,21 +3,36 @@ package com.eziong.lottery
 import android.animation.ObjectAnimator
 import android.content.Intent
 import android.net.Uri
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.CountDownTimer
-import android.util.Log
 import android.view.View
 import android.view.inputmethod.EditorInfo
-import android.widget.TextView
+import android.widget.EditText
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import com.google.android.gms.ads.AdListener
+import com.google.android.gms.ads.AdLoader
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.MobileAds
+import com.google.android.gms.ads.formats.NativeAdOptions
+import com.google.android.gms.ads.formats.UnifiedNativeAd
 import com.google.zxing.integration.android.IntentIntegrator
 import kotlinx.android.synthetic.main.activity_main.*
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        MobileAds.initialize(
+            this
+        ) { }
+
+        val adRequest = AdRequest.Builder().build()
+        adView.loadAd(adRequest)
+
+
 
         val lotteryNumbers = arrayListOf(number1, number2, number3, number4, number5, number6)
         val countDownTimer = object : CountDownTimer(2000, 50) {
@@ -57,7 +72,7 @@ class MainActivity : AppCompatActivity() {
 
         lotteryBtn.setOnClickListener {
             val currentDegree = lotteryBtn.rotation
-            ObjectAnimator.ofFloat(lotteryBtn, View.ROTATION, currentDegree, currentDegree + 3600f)
+            ObjectAnimator.ofFloat(lotteryBtn, View.ROTATION, currentDegree, currentDegree + 2700f)
                 .setDuration(1900)
                 .start()
             countDownTimer.start()
@@ -67,6 +82,7 @@ class MainActivity : AppCompatActivity() {
             if (actionId == EditorInfo.IME_ACTION_DONE) {
                 if (search_bar.text.toString() != "") {
                     val intent = Intent(this, RecordsActivity::class.java)
+                    intent.putExtra("r", findViewById<EditText>(R.id.search_bar).text.toString())
                     startActivity(intent)
                     true
                 } else {
@@ -90,6 +106,7 @@ class MainActivity : AppCompatActivity() {
     fun recordViewClick(view: View) {
         if (search_bar.text.toString() != "") {
             val intent = Intent(this, RecordsActivity::class.java)
+            intent.putExtra("r", findViewById<EditText>(R.id.search_bar).text.toString())
             startActivity(intent)
             true
         } else {
@@ -110,7 +127,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "${result.contents}", Toast.LENGTH_LONG).show()
                 linkUrl("${result.contents}")
             } else {
-                Toast.makeText(this, "취", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "취소", Toast.LENGTH_SHORT).show()
             }
         } else {
             super.onActivityResult(requestCode, resultCode, data)

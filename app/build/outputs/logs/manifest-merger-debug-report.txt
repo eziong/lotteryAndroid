@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
 MERGED from [androidx.core:core-ktx:1.3.2] /home/eziong/.gradle/caches/transforms-2/files-2.1/a8f3ef74a3a6b0c090efeb50aba42b3a/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.2.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/8fcaf3e7a412c559bc02fc66caab7662/material-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/eziong/.gradle/caches/transforms-2/files-2.1/81bab53bcbce144f64375ae6c545efa8/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
@@ -11,10 +11,19 @@ MERGED from [com.airbnb.android:lottie:3.6.0] /home/eziong/.gradle/caches/transf
 MERGED from [androidx.appcompat:appcompat:1.2.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/39382bae5113f155e1aee98ba8c5dcd4/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:17:1-56:12
 MERGED from [com.android.volley:volley:1.1.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/9e0277240bdb4bfc115a98303dc2de1f/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a0237b5588d37938e90d36da8b594d69/jetified-play-services-ads-19.6.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9fffbed6ffa962a88eb0cb8e256f5274/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/010c51baaca01c7d7c21c311722da1b0/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gass:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/2add267e61762e6d410feb4a60809b98/jetified-play-services-gass-19.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/81d37ae65028faf0e106c9050b975468/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/ff8a5b6c4198093ca66020f20bd272b0/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/66bc4b9b796240d7844360c87a56be31/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/02c8761f6e70ec2948058bc5ef2fec67/jetified-play-services-basement-17.3.0/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4213f949cf768c8d521f117ca4d3b13b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/896b190e53425a7a1cc3ee23bf4e3fcd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a90aace9bd56a69fd7a8ca71fabc2300/browser-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/ff7cf31b3ede8eb23ce97dc4c22c6e72/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/c5dcc160a9303a073fdbcf2f4e4e9f9f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/8448208a2b2d469e20bc603d7bb83650/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -29,48 +38,58 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/eziong/.gradle/cach
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/b9313d63d55dd005291ed1e250fca8ac/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/b4ab0db884e1aff98e46ee040d9db027/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ef81f3aeb6fe6022af4b596284f4e24/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:17:1-125:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/2ce0ff4413c590b63531a9c082210749/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/f94b10e69dd96179b690ba39a100e24a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/113cea19029e9e81284f68dea491d682/room-runtime-2.1.0/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.core:core:1.3.2] /home/eziong/.gradle/caches/transforms-2/files-2.1/80bb011650aac5452efa6d1fcdab7fb5/core-1.3.2/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/28baab75c8160a126be95115f7119116/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/afce9cae55a453ca00dc3cd43e2be184/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/08a82112e57027dc764f8a57685119ba/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/7edb7b372b1065d55a9e036564a02ae6/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/1ae3da63806550a09064f29b52a29638/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/553d1a70f9a46076cf8add20f0be992e/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9a0953bf690929d31c2ff4c3139aa834/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/55f1c554ff2c018a24a9f0f2945c5a0f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/7edb7b372b1065d55a9e036564a02ae6/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/26b4c10975f40558fcd55273ae64feec/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/8332f885aec1ac491ba9e522fcaa630d/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9bd8b243de2e50f18ff71ff0309d6688/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9510ff3dc62e0db2e1cbdde9a471d7d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/12ad8c97ddacf629ac0cdd2ef1b34a2c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/8cdaa82a4283de65b0384e1572224cbb/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/a01a7e82e38f0bb92abea960ee11f5de/core-runtime-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/e087460ad255185fd942f6eb9061b178/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/ea8f5a1bf7a812f1b1fe13ba4f07d95d/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0641606da2593114a969563a59b50e3f/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a434e4cd60e2c8834cdf3384af43dad9/jetified-play-services-ads-base-19.6.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:4:5-33
 		INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
 		INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
 		INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:1-37:12
 		INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:7:5-31:19
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:7:5-35:19
 MERGED from [com.google.android.material:material:1.2.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/8fcaf3e7a412c559bc02fc66caab7662/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/8fcaf3e7a412c559bc02fc66caab7662/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/eziong/.gradle/caches/transforms-2/files-2.1/81bab53bcbce144f64375ae6c545efa8/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
@@ -81,10 +100,28 @@ MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/
 MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:46:5-54:19
 MERGED from [com.android.volley:volley:1.1.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/9e0277240bdb4bfc115a98303dc2de1f/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
 MERGED from [com.android.volley:volley:1.1.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/9e0277240bdb4bfc115a98303dc2de1f/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/2add267e61762e6d410feb4a60809b98/jetified-play-services-gass-19.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/2add267e61762e6d410feb4a60809b98/jetified-play-services-gass-19.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/81d37ae65028faf0e106c9050b975468/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/81d37ae65028faf0e106c9050b975468/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:40:5-59:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:40:5-59:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/ff8a5b6c4198093ca66020f20bd272b0/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/ff8a5b6c4198093ca66020f20bd272b0/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/66bc4b9b796240d7844360c87a56be31/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/66bc4b9b796240d7844360c87a56be31/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/02c8761f6e70ec2948058bc5ef2fec67/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/02c8761f6e70ec2948058bc5ef2fec67/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.room:room-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/113cea19029e9e81284f68dea491d682/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/113cea19029e9e81284f68dea491d682/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.core:core:1.3.2] /home/eziong/.gradle/caches/transforms-2/files-2.1/80bb011650aac5452efa6d1fcdab7fb5/core-1.3.2/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.2] /home/eziong/.gradle/caches/transforms-2/files-2.1/80bb011650aac5452efa6d1fcdab7fb5/core-1.3.2/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/08a82112e57027dc764f8a57685119ba/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/08a82112e57027dc764f8a57685119ba/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a434e4cd60e2c8834cdf3384af43dad9/jetified-play-services-ads-base-19.6.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a434e4cd60e2c8834cdf3384af43dad9/jetified-play-services-ads-base-19.6.0/AndroidManifest.xml:7:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] /home/eziong/.gradle/caches/transforms-2/files-2.1/80bb011650aac5452efa6d1fcdab7fb5/core-1.3.2/AndroidManifest.xml:24:18-86
 	android:supportsRtl
@@ -94,51 +131,57 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ezion
 	android:hardwareAccelerated
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:13:9-43
 	android:roundIcon
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:11:9-44
 	android:icon
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:9:9-39
 	android:allowBackup
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:14:9-45
 	android:usesCleartextTraffic
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:15:9-44
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:17:9-19:69
+	android:value
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:19:13-67
+	android:name
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:18:13-69
 activity#com.eziong.lottery.SplashActivity
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:16:9-22:20
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:20:9-26:20
 	android:theme
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:16:50-103
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:20:50-103
 	android:name
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:16:19-49
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:20:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:24:27-74
 activity#com.eziong.lottery.MainActivity
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:23:9-25:20
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:27:9-29:20
 	android:theme
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:23:48-101
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:27:48-101
 	android:name
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:23:19-47
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:27:19-47
 activity#com.eziong.lottery.RecordsActivity
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:26:9-116
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:30:9-116
 	android:theme
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:26:51-104
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:30:51-104
 	android:name
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:26:19-50
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:30:19-50
 activity#com.journeyapps.barcodescanner.CaptureActivity
-ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:27:9-30:49
+ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:31:9-34:49
 MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:47:9-53:63
 MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:47:9-53:63
 	android:clearTaskOnLaunch
 		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:49:13-45
 	android:screenOrientation
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:29:13-49
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:33:13-49
 		REJECTED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:50:13-56
 	android:stateNotNeeded
 		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:51:13-42
@@ -147,9 +190,9 @@ MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/
 	android:theme
 		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:52:13-54
 	tools:replace
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:30:13-46
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:34:13-46
 	android:name
-		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:28:13-74
+		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml:32:13-74
 uses-sdk
 INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
@@ -168,14 +211,32 @@ MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/
 MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.volley:volley:1.1.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/9e0277240bdb4bfc115a98303dc2de1f/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
 MERGED from [com.android.volley:volley:1.1.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/9e0277240bdb4bfc115a98303dc2de1f/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-ads:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a0237b5588d37938e90d36da8b594d69/jetified-play-services-ads-19.6.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a0237b5588d37938e90d36da8b594d69/jetified-play-services-ads-19.6.0/AndroidManifest.xml:21:5-23:52
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9fffbed6ffa962a88eb0cb8e256f5274/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9fffbed6ffa962a88eb0cb8e256f5274/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/010c51baaca01c7d7c21c311722da1b0/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/010c51baaca01c7d7c21c311722da1b0/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/2add267e61762e6d410feb4a60809b98/jetified-play-services-gass-19.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/2add267e61762e6d410feb4a60809b98/jetified-play-services-gass-19.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/81d37ae65028faf0e106c9050b975468/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/81d37ae65028faf0e106c9050b975468/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/ff8a5b6c4198093ca66020f20bd272b0/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/ff8a5b6c4198093ca66020f20bd272b0/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/66bc4b9b796240d7844360c87a56be31/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/66bc4b9b796240d7844360c87a56be31/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/02c8761f6e70ec2948058bc5ef2fec67/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/02c8761f6e70ec2948058bc5ef2fec67/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4213f949cf768c8d521f117ca4d3b13b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4213f949cf768c8d521f117ca4d3b13b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/896b190e53425a7a1cc3ee23bf4e3fcd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/896b190e53425a7a1cc3ee23bf4e3fcd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a90aace9bd56a69fd7a8ca71fabc2300/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a90aace9bd56a69fd7a8ca71fabc2300/browser-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/ff7cf31b3ede8eb23ce97dc4c22c6e72/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/ff7cf31b3ede8eb23ce97dc4c22c6e72/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/c5dcc160a9303a073fdbcf2f4e4e9f9f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
@@ -204,10 +265,14 @@ MERGED from [androidx.customview:customview:1.0.0] /home/eziong/.gradle/caches/t
 MERGED from [androidx.customview:customview:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/b4ab0db884e1aff98e46ee040d9db027/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ef81f3aeb6fe6022af4b596284f4e24/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ef81f3aeb6fe6022af4b596284f4e24/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/2ce0ff4413c590b63531a9c082210749/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/2ce0ff4413c590b63531a9c082210749/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/f94b10e69dd96179b690ba39a100e24a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/f94b10e69dd96179b690ba39a100e24a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/113cea19029e9e81284f68dea491d682/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/113cea19029e9e81284f68dea491d682/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.2] /home/eziong/.gradle/caches/transforms-2/files-2.1/80bb011650aac5452efa6d1fcdab7fb5/core-1.3.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.2] /home/eziong/.gradle/caches/transforms-2/files-2.1/80bb011650aac5452efa6d1fcdab7fb5/core-1.3.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/28baab75c8160a126be95115f7119116/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
@@ -216,14 +281,16 @@ MERGED from [androidx.cardview:cardview:1.0.0] /home/eziong/.gradle/caches/trans
 MERGED from [androidx.cardview:cardview:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/afce9cae55a453ca00dc3cd43e2be184/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/08a82112e57027dc764f8a57685119ba/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/08a82112e57027dc764f8a57685119ba/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/7edb7b372b1065d55a9e036564a02ae6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/7edb7b372b1065d55a9e036564a02ae6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/1ae3da63806550a09064f29b52a29638/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/1ae3da63806550a09064f29b52a29638/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/553d1a70f9a46076cf8add20f0be992e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/553d1a70f9a46076cf8add20f0be992e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9a0953bf690929d31c2ff4c3139aa834/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9a0953bf690929d31c2ff4c3139aa834/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/55f1c554ff2c018a24a9f0f2945c5a0f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/55f1c554ff2c018a24a9f0f2945c5a0f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/7edb7b372b1065d55a9e036564a02ae6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/7edb7b372b1065d55a9e036564a02ae6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/26b4c10975f40558fcd55273ae64feec/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/26b4c10975f40558fcd55273ae64feec/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/8332f885aec1ac491ba9e522fcaa630d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
@@ -234,12 +301,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eziong/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/9510ff3dc62e0db2e1cbdde9a471d7d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/12ad8c97ddacf629ac0cdd2ef1b34a2c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/12ad8c97ddacf629ac0cdd2ef1b34a2c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/8cdaa82a4283de65b0384e1572224cbb/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/8cdaa82a4283de65b0384e1572224cbb/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/a01a7e82e38f0bb92abea960ee11f5de/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/a01a7e82e38f0bb92abea960ee11f5de/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/e087460ad255185fd942f6eb9061b178/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/e087460ad255185fd942f6eb9061b178/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/ea8f5a1bf7a812f1b1fe13ba4f07d95d/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/eziong/.gradle/caches/transforms-2/files-2.1/ea8f5a1bf7a812f1b1fe13ba4f07d95d/sqlite-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0641606da2593114a969563a59b50e3f/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0641606da2593114a969563a59b50e3f/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-base:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a434e4cd60e2c8834cdf3384af43dad9/jetified-play-services-ads-base-19.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a434e4cd60e2c8834cdf3384af43dad9/jetified-play-services-ads-base-19.6.0/AndroidManifest.xml:5:5-44
 INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
 INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/a0237b5588d37938e90d36da8b594d69/jetified-play-services-ads-19.6.0/AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
 		INJECTED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
 		ADDED from /home/eziong/AndroidStudioProjects/lottery/app/src/main/AndroidManifest.xml
@@ -288,3 +363,257 @@ ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/c
 		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:44:9-33
 	android:name
 		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/eeadad002cc9d153a5c9f26baede9844/jetified-zxing-android-embedded-4.1.0/AndroidManifest.xml:43:9-45
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:24:22-76
+queries
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:27:5-38:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:30:9-36:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:31:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:31:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:33:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:35:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:35:19-41
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:43:9-47:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:46:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:45:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:47:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:44:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:49:9-53:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:51:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:52:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:50:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:55:9-58:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:57:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.6.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/4c8fb6e5628a60bc9be7cf6bb46de05a/jetified-play-services-ads-lite-19.6.0/AndroidManifest.xml:56:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/0ad7cad12847e70d348252d60c52281f/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/02c8761f6e70ec2948058bc5ef2fec67/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/02c8761f6e70ec2948058bc5ef2fec67/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/02c8761f6e70ec2948058bc5ef2fec67/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:27:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:30:9-36:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:32:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:35:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:34:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:31:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:38:9-43:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:42:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:43:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:39:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:44:9-50:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:47:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:48:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:49:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:50:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:45:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:53:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:58:9-68:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:61:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:62:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:63:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:59:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:64:13-67:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:65:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:65:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:66:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:66:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:69:9-79:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:72:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:73:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:74:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:70:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:75:13-78:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:76:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:77:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:80:9-90:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:83:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:84:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:85:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:81:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:86:13-89:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:87:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:87:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:88:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:88:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:91:9-100:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:94:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:95:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:96:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:92:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:97:13-99:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:98:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:98:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:101:9-112:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:104:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:105:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:106:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:102:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:107:13-111:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:108:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:108:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:109:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:109:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:110:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:110:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:113:9-122:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:116:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:117:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:118:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:115:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:114:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:119:13-121:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:120:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/d167d79dfe1e8fafab05a7c1f456f848/work-runtime-2.1.0/AndroidManifest.xml:120:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/113cea19029e9e81284f68dea491d682/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/113cea19029e9e81284f68dea491d682/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/eziong/.gradle/caches/transforms-2/files-2.1/113cea19029e9e81284f68dea491d682/room-runtime-2.1.0/AndroidManifest.xml:26:13-74

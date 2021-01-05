@@ -20,7 +20,7 @@ class SplashActivity : AppCompatActivity() {
             val intent = Intent(this,MainActivity::class.java)
             startActivity(intent)
             finish()}
-        handler.postDelayed(runnable,3000)
+        handler.postDelayed(runnable,500)
 
         animationView.setOnClickListener {
             handler.removeCallbacks(runnable)
